@@ -117,10 +117,10 @@ var numbersArray = [1,2,34,54,55,34,32,11,19,17,54,66,13];
 */
 
 //Code Here
-function divider(numbersArray){
-  for (i=0;)
+// function divider(numbersArray){
+//   for (i=0);
 
-}
+// }
 
 
 ////////// PROBLEM 7 //////////
